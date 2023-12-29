@@ -46,8 +46,11 @@ demo: https://duetosymmetry.com/tool/polynomial-roots-toy/
 [给未来几何和拓扑学家的阅读建议](https://vitalyr.com/post/%E7%BB%99%E6%9C%AA%E6%9D%A5%E5%87%A0%E4%BD%95%E5%92%8C%E6%8B%93%E6%89%91%E5%AD%A6%E5%AE%B6%E7%9A%84%E9%98%85%E8%AF%BB%E5%BB%BA%E8%AE%AE/)  
 这是一位网友写的 Needham 的书 Visual Differential Geometry and Forms 的附录的翻译，他将其视为给未来几何和拓扑学家绝佳的阅读建议。
 
-一位日本老师 Tadashi Tokieda 给南非的学生上的一门 拓扑与几何 的课程，对基础没有太多要求，讲的感觉很有意思。  
-[Topology and Geometry by Dr Tadashi Tokieda](https://www.youtube.com/watch?v=SXHHvoaSctc&list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+一位日本老师 Tadashi Tokieda 给南非的一个班上的一门 拓扑与几何 的课程，对基础没有太多要求，讲的感觉很有意思。 这么课用黑板来讲，可以跟着记笔记，能跟着学会怎么画一些图。课程开始就说他希望大家注重图像思维 picture thinking，无论何时做数学时永远画图，以及除了物理现实的物体外还有更多的图像，要学会看到看不见的东西以及在这些图像上推理。  
+第一章从基本且重要的流形的分类讲起，然后第二章讲同伦 Isotopy 的概念，第三章引入相交数 intersection number，随后第四章讲不动点理论（Lefschetz Thm 和 Brouwer Fixed Point Thm）及相关应用（包括Nash均衡和Markov链），第五章是向量场的 equilibria，引入了 Tangent Bundle、欧拉示性数 Euler characteristic 和相关的Poincare-Hopf指标定理，第六章作为几何理论的应用证明代数基本定理，d>=1次复多项式，复平面上一定有一点使得该多项式为0。最后作者讲了些故事，比如 Lefschetz 是一个因为事故失去了手的数学家，但他靠把粉笔卡在手上可以做数学以及讲课，还有这些南非的学生跟 Lefschetz 产生了一些联系。  
+在 Mathematics Genealogy Project 网站可以从 [Tadashi Tokieda](https://genealogy.math.ndsu.nodak.edu/id.php?id=60734) 一路点 advisor 向上看导师是谁，这样可以一路看到  
+Tadashi Tokieda <- William Browder <- John Coleman Moore <- George William Whitehead, Jr. <- Norman Earl Steenrod <- Solomon Lefschetz.  
+Youtube上的南非数学科学研究院 [Topology and Geometry, by Dr Tadashi Tokieda in 2014](https://www.youtube.com/watch?v=SXHHvoaSctc&list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 
 ### 微分几何 Differential Geometry
 
