@@ -5,7 +5,7 @@
 B站上的视频 [How to self study pure math - a complete guide](https://www.bilibili.com/video/BV1uM4y1F73w)  
 Youtube上的视频 [youtube.com/watch?v=byNaO_zn2fI](https://www.youtube.com/watch?v=byNaO_zn2fI)
 
-中科大数学系学生们整理的[USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata.html)
+中科大数学系学生们整理的 [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata.html)
 
 ## 线性代数 Linear Algebra
 线性代数太基础了所以也很重要，也适合拿来作为复习或学习的起点。除了后续的数学课程需要基本的线性代数，AI模型架构上的创新研究也都是在矩阵上做文章。  
