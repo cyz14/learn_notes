@@ -2,10 +2,14 @@
 按照方向记录看到过的课程，视频，书等材料。大部分不一定看了。
 
 如何自学纯数-一个完整的指导，来自youtube，被B站用户搬运过多次。从中可以大概知道存在哪些方向，以及入门可以看哪些书。  
-B站上的视频 [How to self study pure math - a complete guide](https://www.bilibili.com/video/BV1uM4y1F73w)  
-Youtube上的视频 [youtube.com/watch?v=byNaO_zn2fI](https://www.youtube.com/watch?v=byNaO_zn2fI)
+* B站上的视频 [How to self study pure math - a complete guide](https://www.bilibili.com/video/BV1uM4y1F73w)  
+* Youtube上的视频 [youtube.com/watch?v=byNaO_zn2fI](https://www.youtube.com/watch?v=byNaO_zn2fI)  
 
-中科大数学系学生们整理的 [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata.html)
+* 中科大数学系学生们整理的 [USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata.html)  
+
+## 科普/历史
+* 数学在19世纪的发展, F. Klein  
+这本书原本是齐民友先生翻译的，23年刚出版了知乎网友根据多种语言版本做的校注版本。阿诺德称这本书教了他一半的数学知识。  
 
 ## 线性代数 Linear Algebra
 线性代数太基础了所以也很重要，也适合拿来作为复习或学习的起点。除了后续的数学课程需要基本的线性代数，AI模型架构上的创新研究也都是在矩阵上做文章。  
