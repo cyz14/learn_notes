@@ -8,40 +8,47 @@ Youtube的视频 [Youtube byNaO_zn2fI](https://www.youtube.com/watch?v=byNaO_zn2
 中科大数学系学生们整理的[USTC基础数学修课指南](https://www.zhangjy9610.me/USTCdata.html)
 
 ## 线性代数 Linear Algebra
-
-书：Linear Algebra Done Right, By Sheldon Axler  
+线性代数太基础了所以也很重要，应该也适合拿来作为复习或学习的起点。除了后续的数学课程需要基本的线性代数，AI模型相关的文章也都是在矩阵上变来变去。
 书：Gilbert Strang 的 Linear Algebra，还有他在 MIT OCW 的公开课程   
-[Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+[Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
+书：Linear Algebra Done Right, By Sheldon Axler  
+Gilbert Strang 还写过一篇文章讲离散余弦变换、傅立叶变换和循环矩阵特征向量的关系。  
 
 ## 实分析 Real Analysis
+实分析很有意思的一个例子是 Karl Weierstrass 展示的一个处处连续但处处都不可导的“病态”函数，跟直觉是相反的。  
+这本书里还有一部分我看的内容是傅立叶变换的历史和基础的概念。  
 Understanding Analysis, by Stephen Abbott  
 Video: [Real Analysis by Francis Su](https://www.youtube.com/watch?v=sqEyWLGvvdw&list=PL0E754696F72137EC)
 
+
 ## 点集拓扑 Point Set Topology
-一般都推荐看这个，且有一个很多题目的题库。但一开始不懂拓扑所以没啥兴趣。  
+拓扑的一个有意思的应用：[公众号MathSpark: Furstenberg's 关于素数无限的拓扑证明](https://mp.weixin.qq.com/s/jgRjOehxCZBEJiV1Q7i2pA)  
+这篇文章让人希望理解拓扑说的开集、闭集是什么。一般都推荐这门课，且有一个很多题目的题库，但一开始不懂所以只看了一点。  
 [Toronto Univ. Mat327 Topology](http://www.math.toronto.edu/ivan/mat327/?resources)
 
-有意思的一个拓扑的应用：[公众号MathSpark: Furstenberg's 关于素数无限的拓扑证明](https://mp.weixin.qq.com/s/jgRjOehxCZBEJiV1Q7i2pA)  
-希望看懂这篇文章让人希望理解拓扑说的开集、闭集是什么。
 
 ## 复分析 Complex Analysis
 
-Complex Analysis, by Serge Lang
-
-Visual Complex Functions, An introduction with phase portraits, by Elias Wegert
+Complex Analysis, by Serge Lang  
+这本书大致看了前面的部分。
 
 Visual Complex Analysis, Tristan Needham  
 这本书有齐民友的中译版。作者是诺贝尔物理学奖得主Roger Penrose的学生。看过时间简史的人应该对他有印象，霍金提到过不少次。作者是个很有意思的人，可能比较像Arnold，
-认为牺牲一些严谨性但是让更多人感兴趣是值得的，不过内容还是硬核的。感觉很多人都看过。
+认为牺牲一些严谨性但是让更多人感兴趣是值得的，不过内容还是硬核的。感觉很多人都看过。前面几十页复数的历史和基本概念没有什么新意，但是第一个震惊我的地方是对复平面上函数的幂级数和傅立叶级数之间的联系的解释。  
+
+Visual Complex Functions, An introduction with phase portraits, by Elias Wegert  
 
 Video: [Wesleyan University Analysis of a Complex Kind](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
+
+一个学习小组里的博后推荐了一个复函数可视化的网页 https://samuelj.li/complex-function-plotter/  
+另一个相关的启发了上面这个网页作者的网页是 http://davidbau.com/conformal/  
 
 ## 群论 Group Theory
 
 The Abel Theorem in problems, Arnold  
-阿诺德和他学生整理的一门给中学生的课程材料，书里包含两部分内容和题解及附录。前两部分内容都是通过基本定义和问题的方式引导学生逐步得出结论，在书的后半部分给出提示、题解和其他附录。第一部分是讲基础的群论，然后引出正十二面体对称群的不可解等价于五次方程无根式解；第二部分介绍复的黎曼面的构造，以及代数方程的解的置换，系数在黎曼面上的置换，给出了阿贝尔定理的几何含义。因为是给中学生的课程的材料，所以比较好理解。
+阿诺德和他学生整理的一门给中学生的课程材料，书里包含两部分内容和题解及附录。前两部分内容都是通过基本定义和问题的方式引导学生逐步得出结论，在书的后半部分给出提示、题解和其他附录。第一部分是讲基础的群论，然后引出正十二面体对称群的不可解等价于五次方程无根式解；第二部分介绍复的黎曼面的构造，以及代数方程的解的置换，系数在黎曼面上的置换，给出了阿贝尔定理的几何含义。因为是给中学生的课程的材料，所以比较好理解。  
 
-demo: https://duetosymmetry.com/tool/polynomial-roots-toy/ 
+复平面上多项式根的网页demo: https://duetosymmetry.com/tool/polynomial-roots-toy/  
 
 ## 几何
 
@@ -52,7 +59,8 @@ demo: https://duetosymmetry.com/tool/polynomial-roots-toy/
 第一章从基本且重要的流形的分类讲起，然后第二章讲同伦 Isotopy 的概念，第三章引入相交数 intersection number，随后第四章讲不动点理论（Lefschetz Thm 和 Brouwer Fixed Point Thm）及相关应用（包括Nash均衡和Markov链），第五章是向量场的 equilibria，引入了 Tangent Bundle、欧拉示性数 Euler characteristic 和相关的Poincare-Hopf指标定理，第六章作为几何理论的应用证明代数基本定理，d>=1次复多项式，复平面上一定有一点使得该多项式为0。最后作者讲了些故事，比如 Lefschetz 是一个因为事故失去了手的数学家，但他靠把粉笔卡在手上可以做数学以及讲课，还有这些南非的学生跟 Lefschetz 产生了一些联系。  
 在 Mathematics Genealogy Project 网站可以从 [Tadashi Tokieda](https://genealogy.math.ndsu.nodak.edu/id.php?id=60734) 一路点 advisor 向上看导师是谁，这样可以一路看到  
 Tadashi Tokieda <- William Browder <- John Coleman Moore <- George William Whitehead, Jr. <- Norman Earl Steenrod <- Solomon Lefschetz.  
-Youtube上的南非数学科学研究院 [Topology and Geometry, by Dr Tadashi Tokieda in 2014](https://www.youtube.com/watch?v=SXHHvoaSctc&list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+Youtube上的南非数学科学研究院 [Topology and Geometry, by Dr Tadashi Tokieda in 2014](https://www.youtube.com/watch?v=SXHHvoaSctc&list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)  
+Tadashi本人的经历也很有意思。小时候很有艺术天赋，后来到法国学语言，写毕业论文时要选一个人的传记，于是在图书馆看到朗道的传记，里面的一个故事是朗道在医院问来看望他的儿子，sin x的不定积分是什么，他的儿子不知道因此他很失望。Tadashi 当时感觉到自己也被批评了，于是开始学数学（同时学了点俄语），后来就转到了数学方向，到 Oxford 学了两年，然后到 Princeton 去读了数学 PhD。  
 
 ### 微分几何 Differential Geometry
 
