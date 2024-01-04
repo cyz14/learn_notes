@@ -25,8 +25,10 @@
 
 ## 点集拓扑 Point Set Topology
 拓扑的一个有意思的应用：[公众号MathSpark: Furstenberg's 关于素数无限的拓扑证明](https://mp.weixin.qq.com/s/jgRjOehxCZBEJiV1Q7i2pA)  
-这篇文章让人希望理解拓扑说的开集、闭集是什么。一般都推荐这门课，且有一个很多题目的题库，但一开始不懂所以只看了一点。  
-* 课程 [Toronto Univ. Mat327 Topology](http://www.math.toronto.edu/ivan/mat327/?resources)
+这篇文章让人希望理解拓扑说的开集、闭集是什么。  
+
+* 课程 [Toronto Univ. Mat327 Topology](http://www.math.toronto.edu/ivan/mat327/?resources)  
+  一般都推荐这门课，且有一个很多题目的题库，但一开始不懂所以只看了一点。  
 
 
 ## 复分析 Complex Analysis
