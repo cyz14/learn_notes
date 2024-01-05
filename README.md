@@ -153,6 +153,26 @@ by Chris De Sa, Albert Gu, Chris Ré, and Fred Sala](https://dawn.cs.stanford.ed
 * Haykin：Adaptive Filter Theory
 * Stoica、Moses：Spectral Analysis of Signal
 
+### 统计
+信号处理跟统计的关系感觉挺紧密的。张颢老师的课程里估计理论离不开统计，讲无偏估计理论就提到统计学领域的重要人物 C. R. Rao。Rao 在23年以 103 岁高龄去世了。  
+关于 Rao 我看到的他说的一段大佬发言是：  
+```
+All knowledge is, in final analysis, history.  
+All sciences are, in the abstract, mathematics.  
+All judgements are, in their rationale, statistics.  
+-- C. R. Rao (1920-2023) 
+```  
+
+我看到的他的一个神奇的交叉的理论是 Fisher-Rao Riemann Geometry，定义 Metric tensor=Fisher Information Metric  
+$$g_{\text{jk}} = {\int_X}  \frac{\partial \log p (x, \theta)}{\partial
+\theta_j} \frac{\partial \log p (x, \theta)}{\partial \theta_k} p (x, \theta)
+d x$$  
+对应的 infinitesimal squared length element  
+$$d s^2 = \sum_{i j} g_{i j} (\theta) d \theta_i d \theta_j =
+d \theta^T I (\theta) d \theta$$
+
+Fisher 信息矩阵对应于黎曼几何中的度量矩阵，利用度量矩阵可以给出每个信息微元？的模长的平方。
+
 ### 最小二乘法
 今年看到最小二乘法的时候总是会看到大家提起高斯是如何发明最小二乘法并计算并预测出一颗小行星的轨道和位置的。搜索了一下历史发现并没有书上讲的最小二乘法那么简单。一番搜索之后，发现网上有很多人先后写过高斯的计算过程，比较之后最后发现捷克 Charles 大学的 Daniel, Bed’at $\check{s}$ 的本科学位论文 [Gauss'calculation of Ceres' orbit](https://dspace.cuni.cz/handle/20.500.11956/128180?locale-attribute=en) 写的详略比较合适，通过翻译和在 TeXmacs 里手敲公式一遍下来后，我征求了作者 Daniel 的同意把大致的中文翻译发了出来。  
 [高斯是如何计算谷神星轨道参数的？（上）](https://blog.csdn.net/cyz14/article/details/132032662)  
